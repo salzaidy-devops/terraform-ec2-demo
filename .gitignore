@@ -3,3 +3,6 @@
 .terraform/
 *.tfstate
 *.tfstate.backup
+
+# macOS system files
+.DS_Store
